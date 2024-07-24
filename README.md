@@ -8,8 +8,7 @@ Você pode entrar em contato comigo 📫
 
 pelo instagram - @rafael_r0da
 
- 
-![descrição do GIF](link GIF do Tenor)
+
 
 
 
