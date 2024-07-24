@@ -1,16 +1,16 @@
-## Hi there 👋
+##  SUAVE RAPAZIADA 👋
 
-<!--
-**RafaelRoda1/RafaelRoda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+ 
+Você pode entrar em contato comigo 📫
 
-Here are some ideas to get you started:
+pelo instagram - @rafael_r0da
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+![descrição do GIF](link GIF do Tenor)
+
+
+
+
